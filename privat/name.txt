@@ -1,0 +1,2 @@
+your shell list ex: 
+wso.php
